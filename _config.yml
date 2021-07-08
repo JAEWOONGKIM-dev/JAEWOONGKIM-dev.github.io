@@ -104,7 +104,7 @@ author:
   name             : "JaeWoong Kim"
   avatar           : "/assets/images/photo_me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "You know?, I am an **amazing** person."
-  location         : "Korea"
+  location         : "South Korea"
   email            : "kjw8176@gmail.com"
   links:
     - label: "Email"
@@ -121,10 +121,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/JAEWOONGKIM-dev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/woong_0320/"
 
 # Site Footer
 footer:
