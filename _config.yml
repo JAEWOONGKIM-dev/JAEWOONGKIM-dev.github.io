@@ -19,7 +19,7 @@ locale                   : "republic_of_korea"
 title                    : "Woong's Log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+name                     : "Woong's Log"
 description              : "An amazing website."
 url                      : "https://JAEWOONGKIM-dev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -284,6 +284,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
