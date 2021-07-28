@@ -36,10 +36,12 @@ tags:
 
 <https://jaewoongkim-dev.github.io><br>
 
-[설명있는](링크주소)<br>
-[Woong's Log](https://jaewoongkim-dev.github.io)<br>  
+\[설명있는](링크주소)  
 
-[동일파일 내 `문단이동`]<br>
+[Woong's Log](https://jaewoongkim-dev.github.io)  
+
+\[동일파일 내 `문단이동`]  
+
 [Markdown 문법 연습](#markdown-문법-연습)  
 
 >인용문?
