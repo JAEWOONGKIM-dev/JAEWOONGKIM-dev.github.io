@@ -10,7 +10,7 @@ tags:
     - [Blog, Github]
 ---
 
-이번 글은 '[식빵맘](https://ansohxxn.github.io/blog/markdown/)'님이 블로그에서 정리해 주신 Markdown 문법을 사용해 보려한다. 문법에 대한 설명은 식빵맘님의 블로그를 참고 바란다.  
+이번 글은 `[식빵맘](https://ansohxxn.github.io/blog/markdown/)`님이 블로그에서 정리해 주신 Markdown 문법을 사용해 보려한다. 문법에 대한 설명은 식빵맘님의 블로그를 참고 바란다.  
 
 ## Markdown 문법 연습
 - hi
@@ -53,9 +53,6 @@ tags:
 
     스페이스바 4번
 
-<https://jaewoongkim-dev.github.io><br>
-
- 
 
 >인용문?
   >>이...인용문?  
@@ -63,11 +60,8 @@ tags:
 <cite>jaewoong</cite> --- reference가 되고 있는 것인가?, 2021
 {: .small}  
 
-
-<br>
 - [ ] check x
 - [X] check o  
-<br>
 
 --- 
  
