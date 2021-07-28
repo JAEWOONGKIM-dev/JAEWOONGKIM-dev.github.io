@@ -54,7 +54,8 @@ tags:
 >인용문?
   >>이...인용문?  
 
-<cite>jaewoong</cite> --- reference가 되고 있는 것인가?, 2021 {: .small}  
+<cite>jaewoong</cite> --- reference가 되고 있는 것인가?, 2021
+{: .small}  
 
 
 <br>
