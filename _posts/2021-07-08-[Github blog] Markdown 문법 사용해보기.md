@@ -28,7 +28,6 @@ tags:
     - 이다.
     - ㅎㅎ  
   
-<링크주소><br>
 <https://jaewoongkim-dev.github.io>  
 
 <u>밑줄</u>
@@ -46,15 +45,9 @@ tags:
 
     스페이스바 4번
 
-<링크주소>  
-
 <https://jaewoongkim-dev.github.io><br>
 
-\[설명있는](링크주소)  
-
 [Woong's Log](https://jaewoongkim-dev.github.io)  
-
-\[동일파일 내 `문단이동`]  
 
 [Markdown 문법 연습](#markdown-문법-연습)  
 
