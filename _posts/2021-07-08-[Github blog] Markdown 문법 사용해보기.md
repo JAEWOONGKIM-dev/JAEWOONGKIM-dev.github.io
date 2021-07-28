@@ -31,37 +31,38 @@ tags:
 `inline code`
 
     스페이스바 4번
-
+<br>
 <링크주소><br>
 
 <https://jaewoongkim-dev.github.io><br>
 
 [설명있는](링크주소)<br>
-[Woong's Log](https://jaewoongkim-dev.github.io)
+[Woong's Log](https://jaewoongkim-dev.github.io)<br>  
 
 [동일파일 내 `문단이동`]<br>
-[Markdown 문법 연습](#markdown-문법-연습)
+[Markdown 문법 연습](#markdown-문법-연습)<br>  
 
 >인용문?
   >>이...인용문?
+
 <br>
-<cite>jaewoong</cite> --- reference가 되고 있는 것인가?, 2021 {: .small}
+<cite>jaewoong</cite> --- reference가 되고 있는 것인가?, 2021 {: .small}  
 <br>
 - 순서
   * 없는
-    + 목록
+    + 목록  
 <br>
 1. 순서
 2. 있는
   1. 목록
     - 이다.
-    - ㅎㅎ
+    - ㅎㅎ  
 <br>
 - [ ] check x
-- [X] check o
+- [X] check o  
 <br>
-***
----
+***  
+---  
 
 |**제목**|레이팅|감상평|
 |:---:|---:|---|
