@@ -40,18 +40,17 @@ tags:
 [Woong's Log](https://jaewoongkim-dev.github.io)<br>  
 
 [동일파일 내 `문단이동`]<br>
-[Markdown 문법 연습](#markdown-문법-연습)<br>  
+[Markdown 문법 연습](#markdown-문법-연습)  
 
 >인용문?
-  >>이...인용문?
+  >>이...인용문?  
 
-<br>
 <cite>jaewoong</cite> --- reference가 되고 있는 것인가?, 2021 {: .small}  
-<br>
+
 - 순서
   * 없는
     + 목록  
-<br>
+
 1. 순서
 2. 있는
   1. 목록
@@ -62,14 +61,16 @@ tags:
 - [X] check o  
 <br>
 ***  
----  
 
+--- 
+ 
 |**제목**|레이팅|감상평|
 |:---:|---:|---|
 |복수는 나의 것|⭐⭐⭐⭐⭐|내가|
 |올드 보이|⭐⭐⭐⭐⭐|좋아하는|
 |친절한 금자씨|⭐⭐⭐⭐⭐|박찬욱 영화!|
-|감사합니다. 식빵맘님..|
+|감사합니다. 식빵맘님..|  
+
 
 <details>
 <summary>여기를 눌러주세요</summary>
