@@ -19,10 +19,9 @@ tags:
 
 <u>밑줄</u>
 
-**강조된 텍스트**
-*기울어진 텍스트*
-***강조된 기울어진 텍스트***
-
+**강조된 텍스트**<br>
+*기울어진 텍스트*<br>
+***강조된 기울어진 텍스트***<br>
 ~~취소된 텍스트~~
 
 <span style="color:yellow">색</span>
@@ -34,7 +33,8 @@ tags:
     스페이스바 4번
 
 <링크주소><br>
-<https://jaewoongkim-dev.github.io>
+
+<https://jaewoongkim-dev.github.io><br>
 
 [설명있는](링크주소)<br>
 [Woong's Log](https://jaewoongkim-dev.github.io)
@@ -44,22 +44,22 @@ tags:
 
 >인용문?
   >>이...인용문?
-
+<br>
 <cite>jaewoong</cite> --- reference가 되고 있는 것인가?, 2021 {: .small}
-
+<br>
 - 순서
   * 없는
     + 목록
-
+<br>
 1. 순서
 2. 있는
   1. 목록
     - 이다.
     - ㅎㅎ
-
+<br>
 - [ ] check x
 - [X] check o
-
+<br>
 ***
 ---
 
