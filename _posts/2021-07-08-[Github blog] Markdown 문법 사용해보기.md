@@ -22,13 +22,21 @@ tags:
     + 목록  
 
 
-1. 순서
-2. 있는
-  1. 목록
-    - 이다.
-    - ㅎㅎ  
+1. 순서가
+2. 있는  
+   1. 목록
+      - 하나
+      - 둘
+   2. 목록
+       - 하나
+       - 둘
+3. 목록 
   
 <https://jaewoongkim-dev.github.io>  
+
+[Woong's Log](https://jaewoongkim-dev.github.io)  
+
+[Markdown 문법 연습](#markdown-문법-연습)  
 
 <u>밑줄</u>
 
@@ -47,9 +55,7 @@ tags:
 
 <https://jaewoongkim-dev.github.io><br>
 
-[Woong's Log](https://jaewoongkim-dev.github.io)  
-
-[Markdown 문법 연습](#markdown-문법-연습)  
+ 
 
 >인용문?
   >>이...인용문?  
@@ -62,7 +68,6 @@ tags:
 - [ ] check x
 - [X] check o  
 <br>
-***  
 
 --- 
  
