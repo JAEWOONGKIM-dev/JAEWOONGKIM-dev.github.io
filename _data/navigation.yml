@@ -7,7 +7,7 @@ main:
   - title: "Sitemap"
     url: /sitemap/
   - title: "Archive Layout with Content"
-      url: /archive-layout-with-content/
+    url: /archive-layout-with-content/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Collections"
